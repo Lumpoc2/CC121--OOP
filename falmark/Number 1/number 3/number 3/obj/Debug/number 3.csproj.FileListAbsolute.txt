@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Falmark G. Lumpoc\Number 1\number 3\number 3\bin\Debug\number 3.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Falmark G. Lumpoc\Number 1\number 3\number 3\bin\Debug\number 3.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Falmark G. Lumpoc\Number 1\number 3\number 3\bin\Debug\number 3.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Falmark G. Lumpoc\Number 1\number 3\number 3\obj\Debug\number 3.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Falmark G. Lumpoc\Number 1\number 3\number 3\obj\Debug\number 3.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Falmark G. Lumpoc\Number 1\number 3\number 3\obj\Debug\number 3.pdb

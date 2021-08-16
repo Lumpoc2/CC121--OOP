@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\Falmark G. Lumpoc\Falmark G. Lumpoc\bin\Debug\Falmark_G.Lumpoc.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Falmark G. Lumpoc\Falmark G. Lumpoc\obj\Debug\Falmark G. Lumpoc.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Falmark G. Lumpoc\Falmark G. Lumpoc\bin\Debug\Falmark_G.Lumpoc.exe
+c:\users\admin\documents\visual studio 2015\Projects\Falmark G. Lumpoc\Falmark G. Lumpoc\bin\Debug\Falmark_G.Lumpoc.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Falmark G. Lumpoc\Falmark G. Lumpoc\obj\Debug\Falmark_G.Lumpoc.exe
+c:\users\admin\documents\visual studio 2015\Projects\Falmark G. Lumpoc\Falmark G. Lumpoc\obj\Debug\Falmark_G.Lumpoc.pdb
